@@ -9,6 +9,7 @@ keywords:
         protein: 5
         drug: 5
         drug discovery: 10
+        molecule: 5
 
 # 通知の閾値
 score_threshold: 0
