@@ -12,7 +12,7 @@ lxml = "^4.6.2"
 pyyaml = "^5.3.1"
 beautifulsoup4 = "^4.9.3"
 selenium = "^3.141.0"
-chromedriver-binary = "87.*"
+chromedriver-binary = "89.*"
 arxiv = "^0.5.3"
 
 [tool.poetry.dev-dependencies]
