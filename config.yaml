@@ -3,7 +3,6 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        compound: 5
         affinity: 5
         ligand: 5
         protein: 5
