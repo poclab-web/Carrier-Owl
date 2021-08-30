@@ -3,11 +3,11 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        affinity: 5
-        ligand: 5
-        protein: 5
-        drug: 5
-        drug discovery: 10
+        chemistry: 5
+        antioxidant: 10
+        ML: 5
+        AI: 5
+        NLP: 5
         molecule: 5
 
 # 通知の閾値
