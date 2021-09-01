@@ -3,10 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        chemistry: 5
+        chemistry: 10
         antioxidant: 10
-        ML: 5
-        AI: 5
+        QSAR: 10
+        MI: 5
         NLP: 5
         molecule: 5
 
