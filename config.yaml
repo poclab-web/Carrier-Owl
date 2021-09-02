@@ -5,10 +5,12 @@ subject: 'cat:cs.*'
 keywords:
         chemistry: 10
         antioxidant: 10
+        molecule: 10
+        compound: 10
         QSAR: 10
         MI: 5
         NLP: 5
-        molecule: 5
-
+        AI: 5
+           
 # 通知の閾値
-score_threshold: 0
+score_threshold: 10
