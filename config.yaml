@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'　OR 'cat:q-bio.*'
+subject: 'cat:cs.*'　
 
 # 検索キーワード
 keywords:
@@ -12,7 +12,6 @@ keywords:
         MOPAC: 10
         chemoinfomatics: 10
         cheminfomatics: 10
-        Materials informatics: 5
         NLP: 5
         AI: 5
            
