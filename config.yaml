@@ -12,8 +12,6 @@ keywords:
         MOPAC: 10
         chemoinfomatics: 10
         cheminfomatics: 10
-        NLP: 5
-        AI: 5
            
 # 通知の閾値
 score_threshold: 10
